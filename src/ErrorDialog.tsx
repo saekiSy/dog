@@ -68,7 +68,7 @@ const ErrorDialog: React.FC = () => {
   return (
     <div>
       {ViewFlag && (
-        <div className="fixed inset-0 flex items-center justify-center overflow-hidden transition-all bg-red-900/90 invisible md:visible">
+        <div className="fixed inset-0 flex items-center justify-center overflow-hidden transition-all bg-red-900/90 invisible xl:visible">
           {isOpen1 && (
             <div className="bg-red-600 absolute top-[200px] animate-vibrate-1">
               <p className="flex justify-end pr-3 py-1">

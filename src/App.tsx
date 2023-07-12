@@ -19,7 +19,7 @@ const App: React.FC = () => {
               alt="smile"
               width={300}
               height={300}
-              className="hover:scale-110"
+              className="lg:hover:scale-110"
             />
           </button>
         </div>
@@ -30,7 +30,7 @@ const App: React.FC = () => {
           <ErrorDialog />
         </div>
         {Wanwan && (
-          <div className="flex justify-end mt-32 md:animate-slide-tr animate-slide-tr-sp">
+          <div className="flex justify-end invisible xl:visible mt-32 xl:animate-slide-tr animate-slide-tr-sp">
             <img src="/img/dog.png" alt="dog" />
           </div>
         )}
