@@ -15,7 +15,7 @@ const App: React.FC = () => {
         <div className="flex justify-center colum">
           <button onClick={handlerOnClick} className="">
             <img
-              src="../public/img/smile.png"
+              src="/img/smile.png"
               alt="smile"
               width={300}
               height={300}
@@ -31,7 +31,7 @@ const App: React.FC = () => {
         </div>
         {Wanwan && (
           <div className="flex justify-end mt-32 md:animate-slide-tr animate-slide-tr-sp">
-            <img src="../public/img/dog.png" alt="dog" />
+            <img src="/img/dog.png" alt="dog" />
           </div>
         )}
       </div>

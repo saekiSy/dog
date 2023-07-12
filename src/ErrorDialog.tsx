@@ -77,7 +77,7 @@ const ErrorDialog: React.FC = () => {
               <div className="bg-yellow-100 p-8">
                 <div className="flex justify-center mb-4">
                   <img
-                    src="../public/img/error.png"
+                    src="/img/error.png"
                     alt="注意マーク"
                     width={50}
                     height={50}
@@ -95,7 +95,7 @@ const ErrorDialog: React.FC = () => {
               <div className="bg-yellow-100 p-20">
                 <div className="flex justify-center mb-4">
                   <img
-                    src="../public/img/error.png"
+                    src="/img/error.png"
                     alt="注意マーク"
                     width={50}
                     height={50}
@@ -114,7 +114,7 @@ const ErrorDialog: React.FC = () => {
               <div className="bg-yellow-100 p-32">
                 <div className="flex justify-center mb-4">
                   <img
-                    src="../public/img/error.png"
+                    src="/img/error.png"
                     alt="注意マーク"
                     width={350}
                     height={350}
@@ -133,7 +133,7 @@ const ErrorDialog: React.FC = () => {
               <div className="bg-yellow-100 p-8">
                 <div className="flex justify-center mb-4">
                   <img
-                    src="../public/img/error.png"
+                    src="/img/error.png"
                     alt="注意マーク"
                     width={400}
                     height={400}
@@ -152,7 +152,7 @@ const ErrorDialog: React.FC = () => {
               <div className="bg-yellow-100 p-8">
                 <div className="flex justify-center mb-4">
                   <img
-                    src="../public/img/error.png"
+                    src="/img/error.png"
                     alt="注意マーク"
                     width={200}
                     height={200}
@@ -171,7 +171,7 @@ const ErrorDialog: React.FC = () => {
               <div className="bg-yellow-100 p-12 px-28">
                 <div className="flex justify-center mb-4">
                   <img
-                    src="../public/img/error.png"
+                    src="/img/error.png"
                     alt="注意マーク"
                     width={180}
                     height={180}
