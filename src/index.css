@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  position: fixed;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  animation: bg-color 0.5s infinite;
+}
+
+@keyframes bg-color {
+  0% {
+    background-color: #f78733;
+  }
+  20% {
+    background-color: #f78733;
+  }
+  40% {
+    background-color: #9b59b6;
+  }
+  60% {
+    background-color: #9b59b6;
+  }
+  80% {
+    background-color: #f78733;
+  }
+  100% {
+    background-color: #691c23;
+  }
+}
