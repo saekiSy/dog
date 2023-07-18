@@ -1,4 +1,4 @@
 # dog
-This is joke site
-React / tailwind / vite / TypeScript
+This is joke site<br>
+React / tailwind / vite / TypeScript<br>
 deploy  Vercel
